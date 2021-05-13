@@ -11,8 +11,6 @@ prefix = $
 ex) $멜론 순위 20 (멜론 차트 20위 까지 보냄) (35위까지 가능)
 ex) $멜론 순위 (이렇게 치면 20위까지 표현 됨)
 
-
-npms :
 npm install cheerio
 npm install request
 npm install discord.js
